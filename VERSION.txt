@@ -1,0 +1,2 @@
+NODO v0.8.44 · Apps Script conectado
+Endpoint de Drive configurado: https://script.google.com/macros/s/AKfycbzBMseb99hNP2WBtZXW4mc8f6INtFBRJW-VBLbVxTAhQb4ixwo7ek6zjk9Xm1pMCIPj9Q/exec
